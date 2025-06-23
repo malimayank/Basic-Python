@@ -56,7 +56,7 @@ You can run these notebooks easily in Google Colab:
 3. Run each cell using `Shift + Enter`
 
 ---
-✨ Learning one week at a time. Staying curious, coding with heart. 🚀
+Staying curious and getting better with every line of code. 🚀
 
 
 
