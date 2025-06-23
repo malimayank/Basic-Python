@@ -1,7 +1,7 @@
-# Week 1 - Python Basics 🚀
+# 🐍 Python Basics and Logic Building 🚀
 
-Welcome to **Week 1** of my learning journey!  
-This week focused on **core Python concepts**, building the foundation for everything ahead.
+This repository includes beginner-friendly Python programs focused on building a strong foundation in logic and syntax.  
+From input/output to conditionals and patterns — these notebooks showcase essential programming skills for any aspiring developer.
 
 ---
 
@@ -9,14 +9,14 @@ This week focused on **core Python concepts**, building the foundation for every
 
 - Printing with `sep` and `end`
 - Taking user input
-- Data Type Conversions
+- Data type conversions
 - Swapping variables
 - Conditional logic (`if`, `elif`, `else`)
-- Salary and Tax Calculator
+- Salary and tax calculator
 - Triangle angle validation
 - Pattern printing using loops
 - Nested for loops
-- Basic formatting and logic building
+- Basic formatting and algorithm design
 
 ---
 
@@ -30,33 +30,22 @@ This week focused on **core Python concepts**, building the foundation for every
 
 ---
 
+## 💡 Highlights
 
-
-**Reverse Number Pattern:**
-
-**Star Diamond Pattern:**
-
----
-
-## 💡 Learnings
-
-This week helped me:
-- Understand how Python handles input/output
-- Practice writing conditional logic
-- Get comfortable with loops and basic algorithmic thinking
-- Write clean, well-indented code in Colab
+- Applied real-world logic building using conditionals
+- Wrote reusable and readable code in Colab
+- Improved understanding of patterns and nested loops
+- Practiced debugging and formatting code for clarity
 
 ---
 
 ## 🛠️ How to Run
 
-You can run these notebooks easily in Google Colab:  
-1. Click the notebook file  
-2. Select "Open in Colab"  
-3. Run each cell using `Shift + Enter`
+You can run these notebooks in Google Colab:  
+1. Click on any `.ipynb` file  
+2. Select **"Open in Colab"**  
+3. Run the cells using `Shift + Enter`
 
 ---
-Staying curious and getting better with every line of code. 🚀
 
-
-
+✨ Staying curious and getting better with every line of code. 🚀
